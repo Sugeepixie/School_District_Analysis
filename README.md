@@ -101,8 +101,9 @@ In this analysis, we replaced Thomas High school's 9th grade reading and math sc
 
 
  ## School_District_Analysis Summary
- 
-    The changes that appeared after removing reading and math scores for the 9th grade at Thomas High School were the following:
+ The changes that appeared after removing reading and math scores for the 9th grade at Thomas High School were the following:
   * Decrease in total number of students
-  * Increase in avarage reading score and decrease in avarage math score
+  * Slight Increase in avarage reading score 
+  * Decrease in avarage math score
+  * Decrease in passing percantage of Math, Reading andOverall 
   
